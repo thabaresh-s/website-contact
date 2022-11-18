@@ -23,12 +23,12 @@ window.onload = function() {
 
   var messages = [
     'Hey there 👋',
-    'I\'m Thabresh',
+    'I\'m Thabresh Syed',
     'I will do Data Analytics & Consulting',
     'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:contact@thabresh.me">contact@thabresh.me</a>',
     '<a target="_blank" href="https://twitter.com/ThabreshSyed">twitter.com/ThabreshSyed</a><br><a target="_blank" href="https://github.com/thabaresh-s">github.com/thabaresh-s</a>',
     getCurrentTime(),
-    '👀.'
+    '👀'
   ]
 
   var getFontSize = function() {
